@@ -2,3 +2,7 @@ CParts mod change log
 
 V0.0
 Added DFH-1 Probe core.
+
+V0.1
+Added LG-02 Solid rocket booster.
+Fixed lethal error in localization configs.
