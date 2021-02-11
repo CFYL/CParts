@@ -6,3 +6,7 @@ Added DFH-1 Probe core.
 V0.1
 Added LG-02 Solid rocket booster.
 Fixed lethal error in localization configs.
+
+V0.2
+Added CZ1Tank1.
+Added CZ1Tank2.
