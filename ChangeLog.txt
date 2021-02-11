@@ -4,9 +4,18 @@ V0.0
 Added DFH-1 Probe core.
 
 V0.1
-Added LG-02 Solid rocket booster.
+Added PG-02 Solid rocket booster.
 Fixed lethal error in localization configs.
 
 V0.2
 Added CZ1Tank1.
 Added CZ1Tank2.
+
+V0.3
+Added Truss Stack Decoupler.
+Added YF-3 Liquid fuel engine.
+Added YF-2 Liquid fuel enigne.
+Added CASC Flag.
+Added Sample Ship.
+Decreased Isp value for PG-02 for stock balancing.
+Some other minor config changes in Tank1, Tank2, and PG-02.
