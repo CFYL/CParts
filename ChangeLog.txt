@@ -19,3 +19,11 @@ Added CASC Flag.
 Added Sample Ship.
 Decreased Isp value for PG-02 for stock balancing.
 Some other minor config changes in Tank1, Tank2, and PG-02.
+
+V1.0
+Remodeled YF-3.
+Added autoshroud to YF-3.
+Added gimbal to YF-2 and YF-3.
+Added Chinese localization.
+Removed CASC Flag from sample ship. 
+Reduced solid fuel in PG-02 for stock balancing.
