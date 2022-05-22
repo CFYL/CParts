@@ -37,3 +37,6 @@ Added Size1TankLength1, S1TL2, S1TL3 and S1TL4.
 Added Size2TankLength1, S2TL2, S2TL3 and S2TL4.
 Updated README.txt.
 Updated LICENSE.txt by adding a human-readable version of the same license.
+Added Waterfall as dependency to make engine exhaust.
+Removed Sample ship.
+Beginning to add descriptions in github commits ^_^
