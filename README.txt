@@ -2,7 +2,7 @@ This is the CParts mod, introducing rocket parts based on the Chinese rocket CZ-
 
 Waterfall is a dependency. StockWaterfallEffects is not a hard dependency, but is strongly recommended.
 
-Templates are copied from MOD StockWaterfallEffects without edits.
+Templates are copied from MOD StockWaterfallEffects but renamed.
 EngineFX are copied from MOD StockWaterfallEffects with minor edits.
 StockWaterfallEffects is licensed under CC-BY-NC-SA 4.0 license.
 Author of StockWaterfallEffects is @Knight of St John on the KSP forums. 
