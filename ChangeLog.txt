@@ -35,6 +35,7 @@ Added YF-1 Liquid fuel engine.
 Added YF-2 Base.
 Added Size1TankLength1, S1TL2, S1TL3 and S1TL4.
 Added Size2TankLength1, S2TL2, S2TL3 and S2TL4.
+Added 8 structural parts based on fuel tanks.
 Updated README.txt.
 Updated LICENSE.txt by adding a human-readable version of the same license.
 Added Waterfall as dependency to make engine exhaust.
