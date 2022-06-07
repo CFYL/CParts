@@ -1,0 +1,41 @@
+CParts mod change log
+
+V0.0
+Added DFH-1 Probe core.
+
+V0.1
+Added PG-02 Solid rocket booster.
+Fixed lethal error in localization configs.
+
+V0.2
+Added CZ1Tank1.
+Added CZ1Tank2.
+
+V0.3
+Added Truss Stack Decoupler.
+Added YF-3 Liquid fuel engine.
+Added YF-2 Liquid fuel enigne.
+Added CASC Flag.
+Added Sample Ship.
+Decreased Isp value for PG-02 for stock balancing.
+Some other minor config changes in Tank1, Tank2, and PG-02.
+
+V1.0
+Remodeled YF-3.
+Added autoshroud to YF-3.
+Added gimbal to YF-2 and YF-3.
+Added Chinese localization.
+Removed CASC Flag from sample ship. 
+Reduced solid fuel in PG-02 for stock balancing.
+
+V1.1
+Moved every liquid fuel tank and YF-1 in V1.0 to zDeprecated.
+Remodeled and retextured YF-1.
+Added YF-1 Liquid fuel engine.
+Added YF-2 Base.
+Added Size1TankLength1, S1TL2, S1TL3 and S1TL4.
+Updated README.txt.
+Updated LICENSE.txt by adding a human-readable version of the same license.
+Added Waterfall as dependency to make engine exhaust.
+Removed Sample ship.
+Beginning to add descriptions in github commits ^_^
