@@ -16,8 +16,8 @@ CParts will contain (in future updates):
 
 ----------Install----------
 Manual:	1. Make sure you have Module manager and Waterfall installed. They are hard dependencies of CParts.
-	2. Extract CParts_v1.1.0 / GameData / CParts to your game Kerbal Space Program / GameData / CParts
-	3. (Optioanlly) extract CParts_v1.1.0 / Ships / VAB to your game Kerbal Space Program / saves / <savename> / Ships / VAB
+	2. Extract CParts_v1.1.0 / GameData / CParts to your game Kerbal Space Program / GameData / CParts.
+	3. (Optioanlly) go to KerbalX.com and download @CFYL's DFH-1 and CZ-1.
 
 CKAN:	Then why are you looking at this? CKAN should have done it for you. If there are problems, contact me on the KSP forums or github.
 
