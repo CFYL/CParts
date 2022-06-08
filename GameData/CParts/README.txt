@@ -49,4 +49,4 @@ Link to SRBWaterfallEffects: https://forum.kerbalspaceprogram.com/index.php?/top
 
 CParts is licensed under CC-BY-NC-SA 4.0 license.
 Author of CParts is @CFYL on the KSP forums.
-Link to CParts: https:https://forum.kerbalspaceprogram.com/index.php?/topic/200222-112xcparts-cfyls-chinese-style-parts-pack-now-with-cz-1/
+Link to CParts: https://forum.kerbalspaceprogram.com/index.php?/topic/200222-112xcparts-cfyls-chinese-style-parts-pack-now-with-cz-1/
