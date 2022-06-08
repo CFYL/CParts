@@ -28,6 +28,8 @@ Stock Waterfall Effects and SRB Waterfall Effects are suggested.
 ----------Credits&Links----------
 Templates are copied from MOD StockWaterfallEffects / SRBWaterfallEffects but renamed.
 EngineFX are copied from MOD StockWaterfallEffects / SRBWaterfallEffects with minor edits.
+English and Chinese localization are created by @CFYL.
+Spanish localization is created by @AtomichTech (0001-0017) and machine translation (0018-0046); see localization file for details.
 
 Module manager source is under a "CC share-alike license" under the term specified by ialdabaoth here. He is the original creator of Module Manager. (here = https://forum.kerbalspaceprogram.com/threads/31342-0-20-ModuleManager-1-3-for-all-your-stock-modding-needs?p=528607&viewfull=1#post528607)
 Author of the latest ModuleManager thread is @sarbian on the KSP forums.
