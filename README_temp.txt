@@ -7,24 +7,43 @@ CParts: CFYL's Chinese style parts pack
 CParts introduces new textures, new parts, and new ways of going to space!
 CParts currently contains: 
 	甲. Fuel tanks:
-		Size1 fuel tanks (1250mm) ---> representing real-life 2m~2.25m tanks.
-		Size2 fuel tanks (2500mm) ---> representing real-life 3.35m tanks.
-		Size3 fuel tanks (3750mm) ---> representing real-life 5m tanks.
-		--Each of them comes with many variants to choose from: White, Blue, Logo, Red, Red and Blue.
-	乙. Liquid fuel engines: 
-		Name	| Category		| variant1, variant2, etc. ("Variants" can be separate parts or stock variant system)
-		YF-1	| Engine		| 0.625m, 0.5m
-		YF-2	| Structural	| short, extended
-		YF-3	| Engine		| shroud, truss mount, bare
-		YF-20	| Engine		| shroud, truss mount, bare
-	丙. A solid rocket booster: cheapstake yet useful!
-	丁. A probe core that represents DFH-1 in real life!
-	戊. Truss stack decoupler and engine plate!
-	己. A prebuilt rocket that represents DFH-1 and CZ-1!
-
-CParts will contain (in future updates):
-	庚. MOAR Chinese style fuel tanks!
-	辛. Blue/White Tailfins! (They are sometimes called the soul of Chinese rockets here in China cuz almost every Chinese rocket have them for stability)
+		==============================================
+		| in-game size	| diameter	| representing real-life ?m tanks	|
+		| Small (Size 1)	| 1.25m	| 2m~2.25m			|
+		| Large (Size 2)	| 2.5m	| 3.35m				|
+		| Extra Large (Size 3)	| 3.75m	| 5m				|
+		==============================================
+		Each of them comes with many variants to choose from: White, Blue, Logo, Red, Red and Blue.
+	乙. Engines: 
+		========================================================================
+		| name	| category	| in-game size	| variant1, variant2, etc.					|
+		| YF-1	| LFO	| Tiny (Size 0)	| 0.625m, 0.5m						|
+		| YF-2	| STR	| Small (Size 1)	| Short, Medium						|
+		| YF-3	| LFO	| Small (Size 1)	| Shroud, Truss Mount, Bare					|
+		| GF-02	| SRB	| Tiny (Size 0)	| (White, Blue, Logo, Red) × (Shroud, Truss Mount, Bare) = 12 Variants	|
+		| YF-20	| LFO	| Tiny (Size 0)	| Shroud, Truss Mount, Bare					|
+		========================================================================
+		category: LFO = Lf+Ox Engine, SRB = Solid Rocket Booster, STR = structural mount.
+		"Variants" can be separate parts, if not variants of stock variant system.
+		Structural mounts are used to build engine groups in KSP like YF-2 in real life.
+	丙. Pods:
+		==============================================
+		| name	| SAS	| in-game size	| variant1, variant2, etc.	|
+		| DFH-1	| lvl.0	| Tiny (Size 0)	| <none>			|
+		==============================================
+		SAS: <none> = no SAS available, lvl.0 = stability assist, lvl.1 = lvl.0 + prograde/retrograde hold, lvl.2 = lvl.1 + normal/radial hold, lvl.3 = all SAS available.
+	丁. Coupling:
+		==============================================
+		| name	| category	| in-game size	| variant1, variant2, etc.	|
+		| T-1250	| D	| Small (Size 1)	| <none>			|
+		==============================================
+		category: D = Decoupler, S = Separator
+	戊. Prebuilt crafts (available on kerbalx.com):
+		====================================================
+		| name		| category	| system	| link				|
+		| DFH-1 with CZ-1	| Com	| Kerbal	| http://kerbalx.com/crafts/74953	|
+		====================================================
+		category: Lif = Lifter, Sat = Satellite, Pro = Probe, Lan = Lander, Rov = Rover, Com = Compound (Lif+Sat, Lan+Rov, etc.)
 
 ----------Install----------
 Manual:	1. Make sure you have Module manager and Waterfall installed. They are hard dependencies of CParts.
