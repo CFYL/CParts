@@ -18,21 +18,28 @@ CParts contains:
 		| in-game size	| diameter	| representing real-life ?m tanks	| added in version	|
 		| Small (Size 1)	| 1.25m	| 2m~2.25m			| v1.1.0		|
 		| Large (Size 2)	| 2.5m	| 3.35m				| v1.1.1		|
-		| Extra Large (Size 3)	| 3.75m	| 5m				| v1.1.2		|
+		| Extra Large (Size 3)	| 3.75m	| 5m				| v1.1.3		|
 		===========================================================
 		Each of them comes with many variants to choose from: White, Blue, Logo, Red, Red and Blue.
 	寅虎 Engines: 
-		=====================================================================================
-		| name	| category	| in-game size	| variant1, variant2, etc.					| added in version	|
-		| YF-1	| LFO	| Tiny (Size 0)	| 0.625m, 0.5m						| v1.1.0		|
-		| YF-2	| STR	| Small (Size 1)	| Short, Medium						| v0.3		|
-		| YF-3	| LFO	| Small (Size 1)	| Shroud, Truss Mount, Bare					| v0.3		|
-		| YF-20	| LFO	| Tiny (Size 0)	| Shroud, Truss Mount, Bare					| v1.1.1		|
-		| GF-02	| SRB	| Tiny (Size 0)	| (White, Blue, Logo, Red) × (Shroud, Truss Mount, Bare) = 12 Variants	| v0.3		|
-		| S-10	| SRB	| <Surf Attach>	| <none>	<cloned from stock sepratron>			| v1.1.0		|
-		| V-62.5	| LFO	| Tiny (Size 0)	| Truss Mount, Bare, White, Black and White, Dark			| v1.1.0		|
-		=====================================================================================
-		category: LFO = Lf+Ox Engine, SRB = Solid Rocket Booster, STR = structural mount.
+		===========================================================================================
+		| name	| category	| in-game size	| variant1, variant2, etc.					| upgrade	| added in version	|
+		| YF-1	| LFO	| Tiny (Size 0)	| 0.625m, 0.5m						| <none>	| v1.1.0		|
+		| YF-2	| STR	| Small (Size 1)	| Short, Medium						| <none>	| v0.3		|
+		| YF-3	| LFO	| Small (Size 1)	| Shroud, Truss Mount, Bare					| <none>	| v0.3		|
+		| YF-20	| LFO	| Tiny (Size 0)	| (Shroud, Truss Mount, Bare) × (0.625m, 0.84m)			| YF-20B	| v1.1.1		|
+		| YF-21	| STR	| Large (Size 2)	| Short, Medium						| <none>	| v1.1.1		|
+		| YF-22	| LFO	| Tiny (Size 0)	| Shroud, Truss Mount, Bare					| YF-22B	| v1.1.1		|
+		| YF-23	| LFV	| Tiny (Size 0)	| Shroud, Truss Mount, Bare					| YF-23B	| v1.1.1		|
+		| YF-24	| STR	| Large (Size 2)	| Short, Medium						| <none>	| v1.1.1		|
+		| YF-40	| LFO	| Tiny (Size 0)	| Shroud, Truss Mount, Bare					| <none>	| v1.1.2		|
+		| YF-73	| LFO	| Small (Size 1)	| Shroud, Truss Mount, Bare					| <none>	| v1.1.2		|
+		| YF-75	| LFO	| Small (Size 1)	| Shroud, Truss Mount, Bare					| YF-75D	| v1.1.2		|
+		| GF-02	| SRB	| Tiny (Size 0)	| (White, Blue, Logo, Red) × (Shroud, Truss Mount, Bare) = 12 Variants	| <none>	| v0.3		|
+		| S-10	| SRB	| <Surf Attach>	| <none>	<cloned from stock sepratron>			| <none>	| v1.1.0		|
+		| V-62.5	| LFV	| Tiny (Size 0)	| Truss Mount, Bare, White, Black and White, Dark			| <none>	| v1.1.0		|
+		===========================================================================================
+		category: LFO = Lf+Ox Engine, SRB = Solid Rocket Booster, STR = structural mount, LFV = Lf + Ox Vernier Engine
 		"Variants" can be separate parts, if not variants of stock variant system.
 		Structural mounts are used to build engine groups in KSP like YF-2 in real life.
 	卯兔 Coupling:
@@ -66,6 +73,7 @@ CParts contains:
 		| name	| category	| added in version	|
 		| TX-59	| EXTD	| v1.1.1		|
 		| TX-62	| EXTD	| v1.1.1		|
+		==========================
 		category: FIXED = fixed, EXTD = extendable (not retractable), RETC = extendable & retractable
 	酉鸡 Science:
 		<TBD>
