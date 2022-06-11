@@ -36,8 +36,9 @@ Added Size1TankLength1, S1TL2, S1TL3 and S1TL4.
 Added YF-3 Liquid fuel engine
 Added GF-02 solid rocket booster
 Added Size1 Truss Stack Decoupler
+Added Size0 Vernier Engine
 Added basic SAS mode (without reaction wheel) to DFH-1
-Cloned stock separatron to make a lighter and weaker spinning motor
+Cloned stock sepratron to make a lighter and weaker spinning motor
 Added Spanish localization (half by @AtomicTech and half by machine translation)
 Updated README.txt.
 Updated LICENSE.txt by adding a human-readable version of the same license.
