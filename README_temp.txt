@@ -56,8 +56,12 @@ CParts contains:
 		| GF-35	| SRB	| Small (Size 1)	| White, Blue, Logo, Red	(real-life name not known)		| <none>	| v1.1.2		|
 		| S-10	| SRB	| <Surf Attach>	| <none>	<cloned from stock sepratron>			| <none>	| v1.1.0		|
 		| V-62.5	| LFV	| Tiny (Size 0)	| Truss Mount, Bare, White, Black and White, Dark			| <none>	| v1.1.0		|
+		| TJ-1	| LFT	| Tiny (Size 0)	| Shroud, Truss Mount, Bare					| <none>	| v1.1.1		|
+		| TJ-3	| LFT	| Tiny (Size 0)	| Shroud, Truss Mount, Bare					| <none>	| v1.1.2		|
+		| TJ-5	| LFT	| Tiny (Size 0)	| Shroud, Truss Mount, Bare					| <none>	| v1.2.0		|
+		| LES	| SRB	| Small (Size 1)	| White, Blue, Red						| <none>	| v1.2.2		|
 		===========================================================================================
-		category: LFO = Lf+Ox Engine, SRB = Solid Rocket Booster, STR = structural mount, LFV = Lf + Ox Vernier Engine
+		category: LFO = Lf+Ox Engine, SRB = Solid Rocket Booster, STR = structural mount, LFV = Lf + Ox Vernier Engine, LFT = Lf + Ox Orbital Maneuvering Engine.
 		"Variants" can be separate parts, if not variants of stock variant system.
 		Structural mounts are used to build engine groups in KSP like YF-2 in real life.
 	卯兔 Coupling:
