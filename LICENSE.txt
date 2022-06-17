@@ -1,6 +1,9 @@
 @CFYL's copyright materials are under the CC-BY-NC-SA-4.0 license.
+This license applies to all @CFYL's copyright materials in the github respository CParts, including folders "GameData", "CPartsDev" and "Ships".
 
 Fonts (CZ-1.png, 为人民服务.jpeg and their related materials) and Logos (CASC.png and its related materials) do not belong to "@CFYL's copyright materials". They are used by @CFYL for positive purposes but copyright belongs their original creaters / owners.
+
+The CC-BY-NC-SA-4.0 license itself does not belong to "@CFYL's copyright materials".
 
 This work is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License. To view a copy of this license, visit http://creativecommons.org/licenses/by-nc-sa/4.0/ or send a letter to Creative Commons, PO Box 1866, Mountain View, CA 94042, USA.
 
